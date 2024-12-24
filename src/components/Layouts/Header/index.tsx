@@ -3,6 +3,7 @@ import Container from '../../Container'
 import travelloLogo from 'public/assets/travelo-logo-header.png'
 import Search from './Search'
 import Nav from './Nav'
+import Button from 'components/Button'
 
 const Header = () => {
     return (
@@ -21,8 +22,11 @@ const Header = () => {
                     <Search />
                         </div>
 
-                        <div className="flex">
+                        <div className="flex gap-5">
                             <Nav />
+                            <Button classaName="w-[190px]">
+                                Masuk
+                            </Button>   
                         </div>
                 </div>
             </Container>
