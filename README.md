@@ -5,9 +5,10 @@ Travello is a travel web display / frontend / UI using TypeScript, React, NextJS
 ## Pages
 
 - Login Page
-![Login Page](./screenshot/login.png)
+![Login Page](./screenshot/login_page.png)
+
 - Home Page
-![Home Page](./screenshot/home.png)
+![Home Page](./screenshot/home_page.png)
 
 ## Instalasi
 
