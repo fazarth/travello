@@ -5,7 +5,9 @@ Travello is a travel web display / frontend / UI using TypeScript, React, NextJS
 ## Pages
 
 - Login Page
+![Login Page](./screenshot/login.png)
 - Home Page
+![Home Page](./screenshot/home.png)
 
 ## Instalasi
 
@@ -34,11 +36,7 @@ Berikut adalah langkah-langkah untuk menginstal aplikasi Travello:
     ```bash
     npm start
     ```
-
-## Kontribusi
-
-Kami menyambut kontribusi dari siapa pun. Silakan buat pull request atau buka issue untuk melaporkan bug atau mengusulkan fitur baru.
-
+    
 ## Lisensi
 
 Aplikasi ini dilisensikan di bawah [MIT License](LICENSE).
